@@ -1,9 +1,3 @@
-#' ---
-#' title: "Flatiron Technical Assessment Results Report"
-#' author: "Zeyu Li"
-#' date: "March 18th, 2024"
-#' ---
-
 # Install Packages -----------------------------
 library("VennDiagram")
 library("ggplot2")
